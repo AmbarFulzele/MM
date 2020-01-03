@@ -1,9 +1,7 @@
 <html>
 <head></head>
 <body>
-	<! ––
-	<ul>
-	  <li><a href="https://ambarfulzele.github.io/Arshiya/Exam20.html">Mock 1</a></li>
-	</ul>
-	––>
-</body></html>
+	<h1>TISS Exam</h1>	
+	
+</body>
+</html>
